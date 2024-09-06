@@ -1,1 +1,1 @@
-print("iski maa ki chut")
+#here we will write code
