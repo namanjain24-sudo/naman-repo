@@ -1,0 +1,1 @@
+print("iski maa ki chut")
